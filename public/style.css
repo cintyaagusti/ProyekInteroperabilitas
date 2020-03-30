@@ -137,7 +137,7 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
+	
 }
 
 address {
@@ -351,6 +351,7 @@ button:focus {
 	float: left;
 	padding: 60px 0 90px;
 	width: 100%;
+	font: ;
 }
 
 .mu-hero-left{
@@ -358,12 +359,16 @@ button:focus {
 	float: left;
 	width: 100%;
 	font-size: 30;
+	font-family: 'Segoe UI';
 }
 
 .mu-hero-right {
 	display: inline;
 	float: left;
 	width: 100%;
+}
+.mu-hero-pad {
+	padding: 100px;
 }
 
 .mu-hero-left h1 {
